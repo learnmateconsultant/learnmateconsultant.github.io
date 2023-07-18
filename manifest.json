@@ -1,11 +1,11 @@
 {
-    "name": "flutter_web_portfolio",
-    "short_name": "flutter_web_portfolio",
+    "name": "LearnMate Consultant",
+    "short_name": "LearnMate Consultant",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Learnmate Consultant is a leading Educational and Services providing Company in Kerala India..",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
